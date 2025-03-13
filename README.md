@@ -1,7 +1,11 @@
 # FAST FOOD NUTRIENTS ANALYSIS
 DESCRIPTION:
-The following Dashboard is on Nutrients segregation in some of the fast food restaurents which is made with the help of microsoft excel.
-It depicts comparison between various nutrients like fats, carbohydrates, protein, sugar
+
+
+The following Dashboard is on Nutrients segregation in some of the fast food restaurents around the world which is made with the help of microsoft excel.
+It depicts comparison between various nutrients like fats, carbohydrates, protein, sugar, potassium and fibre in a graphical manner which helps health cautious customers to pick the restaurents based on the stats provided by the dashboard.
+
+
 SCREENSHOT:
 ![image](https://github.com/user-attachments/assets/5b888a35-e512-4b84-acce-ca4936f81adf)
 ![image](https://github.com/user-attachments/assets/5a050853-b657-4902-82f2-4f72841c8435)
